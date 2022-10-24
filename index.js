@@ -10,7 +10,13 @@ app.get('/', (req, res) => {
     res.send('News API Running all the server point');
 })
 
+//   our courses categories
 
+const courseType = require('./data/courseType.json')
+
+app.get('/categories', (req, res) => {
+    res.send(courseType)
+})
 
 // our courses api link
 const courses = require('./data/courses.json')
