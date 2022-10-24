@@ -1,0 +1,30 @@
+[
+    {
+        "id": "01",
+        "name": "Cricket"
+    },
+    {
+        "id": "02",
+        "name": "Football"
+    },
+    {
+        "id": "03",
+        "name": "Badminton"
+    },
+    {
+        "id": "04",
+        "name": "Volleyball"
+    },
+    {
+        "id": "05",
+        "name": "Basketball"
+    },
+    {
+        "id": "06",
+        "name": "Golf"
+    },
+    {
+        "id": "07",
+        "name": "All Training"
+    }
+]
