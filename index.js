@@ -10,13 +10,7 @@ app.get('/', (req, res) => {
     res.send('News API Running all the server point');
 })
 
-//  iur courses categories
 
-const courseCategories = require('./data/coursecategories.json')
-
-app.get('/categories', (req, res) => {
-    res.send(courseCategories)
-})
 
 // our courses api link
 const courses = require('./data/courses.json')
@@ -33,4 +27,6 @@ app.listen(port, () => {
     console.log('Dragon News server running on port', port);
 })
 
+
+// module.exports = app;
 
