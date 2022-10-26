@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
     res.send('News API Running all the server point');
 })
 
-//   our courses categories
+//   our courses types
 
 const courseType = require('./data/courseType.json')
 
@@ -21,8 +21,11 @@ app.get('/categories', (req, res) => {
 // our courses api link
 const courses = require('./data/courses.json')
 
-app.get('/courses', (req, res) => {
-    res.send(courses);
+app.get('/courses/:id', (req, res) => {
+
+    const id = req.params.id;
+    const selectedCourse = courses.find(singleCourse => singleCourse._id == id)
+    res.send(selectedCourse);
 })
 
 
