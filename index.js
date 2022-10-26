@@ -12,14 +12,25 @@ app.get('/', (req, res) => {
 
 //   our courses types
 
-const courseType = require('./data/courseType.json')
+const courseType = require('./data/courseType.json');
+const courses = require('./data/courses.json');
 
 app.get('/categories', (req, res) => {
     res.send(courseType)
 })
 
 // our courses api link
-const courses = require('./data/courses.json')
+
+
+app.get('/courses', (req, res) => {
+    res.send(courses)
+})
+
+app.get('/catagory/:id', (req, res) => {
+    const id = req.params.id;
+    const catagory_course = tutorial.filter(similarCourse => similarCourse.category_id === id);
+    res.send(catagory_course);
+})
 
 app.get('/courses/:id', (req, res) => {
 

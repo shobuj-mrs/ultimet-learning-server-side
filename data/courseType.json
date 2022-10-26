@@ -1,26 +1,38 @@
 [
     {
         "id": "01",
-        "name": "Cricket"
+        "name": "Cricket",
+        "pic": "01",
+        "detail": "Cricket"
     },
     {
         "id": "02",
-        "name": "Football"
+        "name": "Football",
+        "pic": "01",
+        "detail": "Cricket"
     },
     {
         "id": "03",
-        "name": "Badminton"
+        "name": "Badminton",
+        "pic": "01",
+        "detail": "Cricket"
     },
     {
         "id": "04",
-        "name": "Volleyball"
+        "name": "Volleyball",
+        "pic": "01",
+        "detail": "Cricket"
     },
     {
         "id": "05",
-        "name": "Basketball"
+        "name": "Basketball",
+        "pic": "01",
+        "detail": "Cricket"
     },
     {
         "id": "06",
-        "name": "Golf"
+        "name": "Golf",
+        "pic": "01",
+        "detail": "Cricket"
     }
 ]

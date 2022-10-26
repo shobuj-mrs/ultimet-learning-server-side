@@ -6,11 +6,11 @@
             "number": 4.5
         },
         "total_view": " 4.88 K",
-        "title": "Play Cricket.",
+        "title": "Play Cricket",
         "trainer": {
             "name": "Munna MKZ",
             "fee": "$ 3000",
-            "img": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            "choachPic": "https://i02.appmifile.com/images/2019/11/25/61221316-193c-4d24-a882-4eb18b34f24c.png"
         },
         "thumbnail_url": "https://images.unsplash.com/photo-1589801258579-18e091f4ca26?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNyaWNrZXR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "image_url": "https://images.unsplash.com/photo-1562077772-3bd90403f7f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNyaWNrZXR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
@@ -23,11 +23,11 @@
             "number": 4.5
         },
         "total_view": "9.88 k",
-        "title": "Football .",
+        "title": "Football trainig",
         "trainer": {
             "name": "Tawheed Shimul",
             "fee": "$ 3500",
-            "img": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            "choachPic": "https://t4.ftcdn.net/jpg/03/22/27/15/360_F_322271599_m6B4XfH1Y2k72n5Kk34Q1KfX7oz3GlQs.jpg"
         },
         "thumbnail_url": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGZvb3RiYWxsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "image_url": "https://images.unsplash.com/photo-1602674809970-89073c530b0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Zm9vdGJhbGwlMjBwbGF5ZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
@@ -44,7 +44,7 @@
         "trainer": {
             "name": "Lin Dan",
             "fee": "$ 3000",
-            "img": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+            "choachPic": "https://www.unigreet.com/wp-content/uploads/2021/10/Cartoon-photo.jpg"
         },
         "thumbnail_url": "https://images.unsplash.com/photo-1613918431703-aa50889e3be9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGJhZG1pbnRvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "image_url": "https://images.unsplash.com/photo-1521537634581-0dced2fee2ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmFkbWludG9uJTIwZ2FtZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
@@ -61,7 +61,7 @@
         "trainer": {
             "name": "Karch Kiraly",
             "fee": "$ 2500",
-            "img": "https://images.unsplash.com/photo-1600486913747-55e5470d6f40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1hbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+            "choachPic": "https://www.imagediamond.com/blog/wp-content/uploads/2020/06/cartoon-boy-images-2.jpg"
         },
         "thumbnail_url": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dm9sbGV5YmFsbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "image_url": "https://plus.unsplash.com/premium_photo-1661898138147-60892625ba31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8dm9sbGV5YmFsbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
@@ -78,7 +78,7 @@
         "trainer": {
             "name": "Kevin Durant",
             "fee": "$ 2000",
-            "img": "https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1hbiUyMHdvcmtpbmh8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+            "choachPic": "https://i.pinimg.com/736x/04/59/df/0459df7b4b1a4a42c676584e5e865748.jpg"
         },
         "thumbnail_url": "https://images.unsplash.com/photo-1519861531473-9200262188bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmFza2V0YmFsbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "image_url": "https://plus.unsplash.com/premium_photo-1663076014885-d8dc5fe8f55b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGJhc2tldGJhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
@@ -90,12 +90,12 @@
         "rating": {
             "number": 4.1
         },
-        "total_view": 428,
+        "total_view": "4.28 k",
         "title": "Join INSIDE GOLF Choching",
         "trainer": {
             "name": "Dustin Johnson",
             "fee": "$ 3000",
-            "img": "https://images.unsplash.com/photo-1541855492-581f618f69a0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWFuJTIwd29ya2luaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+            "choachPic": "https://statusprince.com/Categories/Cute_DP/Cute_DP_46014514.jpg"
         },
         "thumbnail_url": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z29sZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "image_url": "https://images.unsplash.com/flagged/photo-1576448438685-9f5e5b283d4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGdvbGZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
