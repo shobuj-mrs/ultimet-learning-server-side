@@ -27,16 +27,16 @@ app.get('/courses', (req, res) => {
     res.send(courses);
 })
 
-app.get('/catagory/:id', (req, res) => {
+app.get('/category/:id', (req, res) => {
     const id = req.params.id;
-    const catagory_course = courses.filter(similarCourse => similarCourse.category_id === id);
-    res.send(catagory_course);
+    const category_course = courses.filter(similarCourse => similarCourse.category_id == id);
+    res.send(category_course);
 })
 
 app.get('/courses/:id', (req, res) => {
 
     const id = req.params.id;
-    const selectedCourse = courses.find(singleCourse => singleCourse._id === id)
+    const selectedCourse = courses.find(singleCourse => singleCourse._id == id)
     res.send(selectedCourse);
 })
 
