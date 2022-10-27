@@ -1,38 +1,44 @@
 [
     {
-        "id": "01",
+        "id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "name": "Cricket",
-        "pic": "01",
-        "detail": "Cricket"
+        "pic": "https://images.unsplash.com/photo-1490326149782-dd42fa59bd9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHBsYXklMjBjcmlja2V0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "category_id": "01",
+        "detail": "The first reference to cricket being played as an adult sport was in 1611, and in the same year, a dictionary defined cricket as a boys' game. Each team takes turns batting and playing the field, as in baseball. In cricket, the batter is a batsman and the pitcher is a bowler."
     },
     {
-        "id": "02",
+        "id": "0282e0e58a5c404fbd15261f11c2ab6b",
         "name": "Football",
-        "pic": "01",
-        "detail": "Cricket"
+        "pic": "https://images.unsplash.com/photo-1527950285759-4d9f1b69c461?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHBsYXklMjBmb290YmFsbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "category_id": "02",
+        "detail": "Football is a family of team sports that involve, to varying degrees, kicking a ball to score a goal. Unqualified, the word football normally means the form other country."
     },
     {
-        "id": "03",
+        "id": "f69a695f037cd9484cecaea37ca71011",
         "name": "Badminton",
-        "pic": "01",
-        "detail": "Cricket"
+        "pic": "https://images.unsplash.com/photo-1617696616247-4016daad0df6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHBsYXklMjBiYWRtaW50b258ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "category_id": "03",
+        "detail": "Badminton is a racquet sport played using racquets to hit a shuttlecock across a net. Although it may be played with larger teams, the most common forms of the game are singles and doubles."
     },
     {
-        "id": "04",
+        "id": "f69a695f037cd9484cecaea37ca71012",
         "name": "Volleyball",
-        "pic": "01",
-        "detail": "Cricket"
+        "pic": "https://images.unsplash.com/photo-1642506538478-17b4a48c4361?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cGxheSUyMHZvbGxleWJhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "category_id": "04",
+        "detail": "Volleyball is a team sport in which two teams of six players are separated by a net. Each team tries to score points by grounding a ball on the other team's court under organized rules. It has been a part of the official program of the Summer Olympic Games since Tokyo 1964."
     },
     {
-        "id": "05",
+        "id": "11468ed61aee84de492a8b04158a22f9",
         "name": "Basketball",
-        "pic": "01",
-        "detail": "Cricket"
+        "pic": "https://images.unsplash.com/photo-1525916801717-9405b53a3246?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGxheSUyMGJhc2tldGJhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "category_id": "05",
+        "detail": "Basketball is a team sport ; Players advance the ball by bouncing it while walking or running (dribbling) or by passing it to a teammate, both of which require."
     },
     {
-        "id": "06",
+        "id": "11468ed61aee84de492a8b04158a22f0",
         "name": "Golf",
-        "pic": "01",
-        "detail": "Cricket"
+        "pic": "https://plus.unsplash.com/premium_photo-1664298940948-2f81511ad587?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGxheSUyMGdvbGZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "category_id": "06",
+        "detail": "Golf is a club-and-ball sport in which players use various clubs to hit balls into a series of holes on a course in as few strokes as possible."
     }
 ]

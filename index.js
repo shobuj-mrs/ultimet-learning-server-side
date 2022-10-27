@@ -14,6 +14,7 @@ app.get('/', (req, res) => {
 
 const courseType = require('./data/courseType.json');
 const courses = require('./data/courses.json');
+const e = require('express')
 
 app.get('/categories', (req, res) => {
     res.send(courseType)
@@ -23,19 +24,19 @@ app.get('/categories', (req, res) => {
 
 
 app.get('/courses', (req, res) => {
-    res.send(courses)
+    res.send(courses);
 })
 
 app.get('/catagory/:id', (req, res) => {
     const id = req.params.id;
-    const catagory_course = tutorial.filter(similarCourse => similarCourse.category_id === id);
+    const catagory_course = courses.filter(similarCourse => similarCourse.category_id === id);
     res.send(catagory_course);
 })
 
 app.get('/courses/:id', (req, res) => {
 
     const id = req.params.id;
-    const selectedCourse = courses.find(singleCourse => singleCourse._id == id)
+    const selectedCourse = courses.find(singleCourse => singleCourse._id === id)
     res.send(selectedCourse);
 })
 
